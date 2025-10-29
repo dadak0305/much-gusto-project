@@ -1,3 +1,4 @@
 koreanize_matplotlib
 matplotlib
 plotly
+folium
